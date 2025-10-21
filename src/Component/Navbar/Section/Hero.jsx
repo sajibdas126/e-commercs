@@ -42,21 +42,21 @@ export const Hero = () => {
             style={{ backgroundImage: `url(${headset})` }}
           >
             <h1
-              data-aos="Zoom-in"
+              data-aos="zoom-in"
               data-aos-delay="50"
               className="text-themyello border rounded-lg border-[#f5a60d] px-6 py-2  text-xl my-3"
             >
               Get upto Discounts 80% off
             </h1>
             <h1
-              data-aos="Zoom-in"
+              data-aos="zoom-in"
               data-aos-delay="100"
               className="text-white lg:text-[120px] text-[60px] uppercase font-bold lg:leading-[120px] leading-[70px]"
             >
               FiiO FT1 <br /> Headphone
             </h1>
             <h1
-              data-aos="Zoom-in"
+              data-aos="zoom-in"
               data-aos-delay="50"
               className="text-white text-2xl my-3"
             >
@@ -66,7 +66,7 @@ export const Hero = () => {
               </span>
             </h1>
             <button
-              data-aos="Zoom-in"
+              data-aos="zoom-in"
               data-aos-delay="50"
               className="bg-[#f5a60d] text-xl lg:px-6 lg px-3 py-3 rounded-lg text-black font-semibold"
             >
@@ -89,7 +89,7 @@ export const Hero = () => {
               Get upto Discounts 80% off
             </h1>
             <h1
-              data-aos="Zoom-in"
+              data-aos="zoom-in"
               data-aos-delay="100"
               className="text-white lg:text-[120px] text-[60px] uppercase font-bold lg:leading-[120px] leading-[70px] my-3 "
             >
@@ -97,7 +97,7 @@ export const Hero = () => {
               Earbuds
             </h1>
             <h1
-              data-aos="Zoom-in"
+              data-aos="zoom-in"
               data-aos-delay="50"
               className="text-white text-2xl my-4"
             >
@@ -107,7 +107,7 @@ export const Hero = () => {
               </span>
             </h1>
             <button
-              data-aos="Zoom-in"
+              data-aos="zoom-in"
               data-aos-delay="50"
               className="bg-[#f5a60d] text-xl lg:px-6 lg px-3 py-3 rounded-lg text-black font-semibold"
             >
@@ -123,21 +123,21 @@ export const Hero = () => {
             style={{ backgroundImage: `url(${dslr})` }}
           >
             <h1
-              data-aos="Zoom-in"
+              data-aos="zoom-in"
               data-aos-delay="50"
               className="text-themyello border rounded-lg border-[#f5a60d] px-6 py-2  text-xl"
             >
               Get upto Discounts 80% off
             </h1>
             <h1
-              data-aos="Zoom-in"
+              data-aos="zoom-in"
               data-aos-delay="100"
               className="text-white lg:text-[120px] text-[60px] uppercase font-bold lg:leading-[120px] leading-[70px] my-3"
             >
               DSLR 360 <br /> Camera
             </h1>
             <h1
-              data-aos="Zoom-in"
+              data-aos="zoom-in"
               data-aos-delay="50"
               className="text-white text-2xl my-3"
             >
@@ -147,7 +147,7 @@ export const Hero = () => {
               </span>
             </h1>
             <button
-              data-aos="Zoom-in"
+              data-aos="zoom-in"
               data-aos-delay="50"
               className="bg-[#f5a60d] text-xl lg:px-6 lg px-3 py-3 rounded-lg text-black font-semibold"
             >
