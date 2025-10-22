@@ -13,6 +13,7 @@ import test4 from "./assets/test-4.jpg";
 import test5 from "./assets/test-5.jpg";
 
 export const products = [
+   
   {
     img: earbud,
     category: "Earphones",
