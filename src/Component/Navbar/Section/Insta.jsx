@@ -10,6 +10,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 
 export const Insta = () => {
+
   useEffect(() => {
     AOS.init({
       offset: 100,
@@ -18,6 +19,7 @@ export const Insta = () => {
     });
     AOS.refresh();
   }, []);
+  
   return (
     <div
       className="w-full lg:px-20 px-5 py-[80px] bg-white flex flex-col
